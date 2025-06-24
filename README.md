@@ -1,8 +1,4 @@
-# README
 
-## Introduction
-
-Hello! I'm **Obiora Chibuike Praise**👋👋👋, a passionate Web and Blockchain Developer.
 
 ```bash
 __        __   _                                   
@@ -11,6 +7,9 @@ __        __   _
   \ V  V /  __/ | (_| (_) | | | | | |  __/ 
    \_/\_/ \___|_|\___\___/|_| |_| |_|\___|   
 ```
+
+Hello! 👋👋👋
+I'm **Obiora Chibuike Praise**, a passionate Web and Blockchain Developer.
 
 ## Table of Contents
 
