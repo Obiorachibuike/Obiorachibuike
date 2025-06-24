@@ -16,29 +16,27 @@ __        __   _
 
 - [About Me](#about-me)
 - [Contact Information](#contact-information)
-- [Skills and Learning](#skills-and-learning)
 - [Skills](#skills)
 - [Dev Card](#dev-card)
 - [Social Media](#social-media)
 
 ## About Me
 
-I am an enthusiastic Web and Blockchain Developer with extensive experience in full-stack development and blockchain technologies. I excel at building scalable, user-friendly applications and integrating cutting-edge technologies. My collaborative spirit allows me to work effectively with cross-functional teams to achieve project objectives and deliver innovative solutions. I am passionate about optimizing user experiences and solving complex technical challenges.
+👋 Hello! I'm **Obiora Chibuike Praise**, an enthusiastic Web and Blockchain Developer with a strong passion for technology and innovation.
+
+🌐 With extensive experience in **full-stack development**, **mobile application development**, and **blockchain technologies**, I excel at building scalable, user-friendly applications that meet the needs of users and businesses alike.
+
+💡 I thrive on integrating cutting-edge technologies to create solutions that are not only functional but also enhance user experiences. My expertise spans various programming languages and frameworks, allowing me to adapt to different project requirements seamlessly.
+
+🤝 My collaborative spirit enables me to work effectively with cross-functional teams, ensuring that we achieve project objectives and deliver innovative solutions on time. I believe that teamwork and open communication are key to successful project outcomes.
+
+🚀 I am passionate about optimizing user experiences and tackling complex technical challenges, always striving to learn and grow in this ever-evolving field. Let's connect and explore how we can create impactful solutions together!
 
 ## Contact Information
 
 * 🌍 Based in Nigeria
 * 🖥️ Check out my portfolio: [My Portfolio](http://codetech-pi.vercel.app/)
 * ✉️ Reach me at: [obiorachibuike22@gmail.com](mailto:obiorachibuike22@gmail.com)
-
-## Skills and Learning
-
-* 🧠 Currently Learning:
-  - Angular
-  - PHP
-  - Python
-
-* 🤝 Open to collaborating on Open Source Projects.
 
 ## Skills
 
@@ -48,9 +46,10 @@ Here are some of the skills I possess:
 - **TypeScript**: [TypeScript](https://www.typescriptlang.org/) 🌐
 - **PHP**: [PHP](https://www.php.net/) 🌐
 - **Python**: [Python](https://www.python.org/) 🌐
+- **React**: [React](https://reactjs.org/) 🌐
+- **React Native**: [React Native](https://reactnative.dev/) 🌐
 - **Git**: [Git](https://git-scm.com/) 🌐
 - **HTML5**: [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) 🌐
-- **React**: [React](https://reactjs.org/) 🌐
 - **Next.js**: [Next.js](https://nextjs.org/docs) 🌐
 - **Vue.js**: [Vue.js](https://vuejs.org/) 🌐
 - **Angular**: [Angular](https://angular.io/) 🌐
