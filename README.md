@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello! I'm **Obiora Chibuike Praise**, a passionate Web and Blockchain Developer.
+Hello! I'm **Obiora Chibuike Praise**👋👋👋, a passionate Web and Blockchain Developer.
 
 ```bash
 __        __   _                                   
