@@ -9,7 +9,8 @@ __        __   _
 ```
 
 Hello! 👋👋👋
-I'm **Obiora Chibuike Praise**, a passionate Web and Blockchain Developer.
+I'm
+## **Obiora Chibuike Praise**, a passionate Web and Blockchain Developer.
 
 ## Table of Contents
 
