@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello! I'm Chibuike Obiora, a passionate Web and Blockchain Developer.
+Hello! I'm **Obiora Chibuike Praise**, a passionate Web and Blockchain Developer.
 
 ```bash
 __        __   _                                   
@@ -11,6 +11,15 @@ __        __   _
   \ V  V /  __/ | (_| (_) | | | | | |  __/ 
    \_/\_/ \___|_|\___\___/|_| |_| |_|\___|   
 ```
+
+## Table of Contents
+
+- [About Me](#about-me)
+- [Contact Information](#contact-information)
+- [Skills and Learning](#skills-and-learning)
+- [Skills](#skills)
+- [Dev Card](#dev-card)
+- [Social Media](#social-media)
 
 ## About Me
 
@@ -210,8 +219,4 @@ You can view my developer card here:
 
 ## Social Media
 
-Connect with me on various platforms:
-
-<p align="left">
-  <a href="https://www.behance.com/chibuikeobiora" target="_blank" rel="noreferrer">Behance</a> |
-  <a href="https://www.codepen.io/@Obiora-Chibuike"
+Connect
